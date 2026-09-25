@@ -1,0 +1,15 @@
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi2_LTWindows\Lab01_02\Lab01_02\bin\Debug\net10.0\Lab01_02.exe
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi2_LTWindows\Lab01_02\Lab01_02\bin\Debug\net10.0\Lab01_02.deps.json
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi2_LTWindows\Lab01_02\Lab01_02\bin\Debug\net10.0\Lab01_02.runtimeconfig.json
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi2_LTWindows\Lab01_02\Lab01_02\bin\Debug\net10.0\Lab01_02.dll
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi2_LTWindows\Lab01_02\Lab01_02\bin\Debug\net10.0\Lab01_02.pdb
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi2_LTWindows\Lab01_02\Lab01_02\obj\Debug\net10.0\Lab01_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi2_LTWindows\Lab01_02\Lab01_02\obj\Debug\net10.0\Lab01_02.AssemblyInfoInputs.cache
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi2_LTWindows\Lab01_02\Lab01_02\obj\Debug\net10.0\Lab01_02.AssemblyInfo.cs
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi2_LTWindows\Lab01_02\Lab01_02\obj\Debug\net10.0\Lab01_02.csproj.CoreCompileInputs.cache
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi2_LTWindows\Lab01_02\Lab01_02\obj\Debug\net10.0\Lab01_02.dll
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi2_LTWindows\Lab01_02\Lab01_02\obj\Debug\net10.0\refint\Lab01_02.dll
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi2_LTWindows\Lab01_02\Lab01_02\obj\Debug\net10.0\Lab01_02.pdb
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi2_LTWindows\Lab01_02\Lab01_02\obj\Debug\net10.0\Lab01_02.genruntimeconfig.cache
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi2_LTWindows\Lab01_02\Lab01_02\obj\Debug\net10.0\ref\Lab01_02.dll
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi2_LTWindows\Lab01_02\Lab01_02\obj\Debug\net10.0\Lab01_02.csproj.Up2Date

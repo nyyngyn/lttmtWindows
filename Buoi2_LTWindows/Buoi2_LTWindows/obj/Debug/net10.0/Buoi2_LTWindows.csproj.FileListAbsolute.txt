@@ -1,0 +1,15 @@
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi2_LTWindows\Buoi2_LTWindows\bin\Debug\net10.0\Buoi2_LTWindows.exe
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi2_LTWindows\Buoi2_LTWindows\bin\Debug\net10.0\Buoi2_LTWindows.deps.json
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi2_LTWindows\Buoi2_LTWindows\bin\Debug\net10.0\Buoi2_LTWindows.runtimeconfig.json
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi2_LTWindows\Buoi2_LTWindows\bin\Debug\net10.0\Buoi2_LTWindows.dll
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi2_LTWindows\Buoi2_LTWindows\bin\Debug\net10.0\Buoi2_LTWindows.pdb
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi2_LTWindows\Buoi2_LTWindows\obj\Debug\net10.0\Buoi2_LTWindows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi2_LTWindows\Buoi2_LTWindows\obj\Debug\net10.0\Buoi2_LTWindows.AssemblyInfoInputs.cache
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi2_LTWindows\Buoi2_LTWindows\obj\Debug\net10.0\Buoi2_LTWindows.AssemblyInfo.cs
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi2_LTWindows\Buoi2_LTWindows\obj\Debug\net10.0\Buoi2_LTWindows.csproj.CoreCompileInputs.cache
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi2_LTWindows\Buoi2_LTWindows\obj\Debug\net10.0\Buoi2_LTWindows.dll
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi2_LTWindows\Buoi2_LTWindows\obj\Debug\net10.0\refint\Buoi2_LTWindows.dll
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi2_LTWindows\Buoi2_LTWindows\obj\Debug\net10.0\Buoi2_LTWindows.pdb
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi2_LTWindows\Buoi2_LTWindows\obj\Debug\net10.0\Buoi2_LTWindows.genruntimeconfig.cache
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi2_LTWindows\Buoi2_LTWindows\obj\Debug\net10.0\ref\Buoi2_LTWindows.dll
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi2_LTWindows\Buoi2_LTWindows\obj\Debug\net10.0\Buoi2_LT.F87EDEB6.Up2Date
