@@ -1,0 +1,161 @@
+﻿using System.ComponentModel;
+using System.Data;
+using System.Windows.Forms;
+using System;
+
+namespace BTbuoi3
+{
+    public partial class Form1 : Form
+    {
+        // DataTable used as the data source for the grid - make it a field so other handlers can access it
+        private DataTable dt;
+
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            // Create a DataTable to hold the data (store in field so all methods can access it)
+            dt = new DataTable();
+            // Add columns to the DataTable (use column names without diacritics for code access)
+            dt.Columns.Add("MaNV", typeof(string));
+            dt.Columns.Add("TenNV", typeof(string));
+            dt.Columns.Add("LuongCB", typeof(decimal));
+            // Set primary key so we can use DataTable.Rows.Find
+            dt.PrimaryKey = new DataColumn[] { dt.Columns["MaNV"] };
+            gvNhanVien.DataSource = dt;
+            gvNhanVien.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+            // Set friendly header text
+            gvNhanVien.Columns["MaNV"].HeaderText = "Mã NV";
+            gvNhanVien.Columns["TenNV"].HeaderText = "Tên NV";
+            gvNhanVien.Columns["LuongCB"].HeaderText = "Lương Cơ Bản";
+            gvNhanVien.Columns["LuongCB"].DefaultCellStyle.Format = "N0";
+        }
+
+        private bool DocDuLieu(out string ma, out string ten, out decimal luong)
+        {
+                ma = txtMNV.Text.Trim();
+                ten = txtTNV.Text.Trim();
+                luong = 0;
+
+                if (ma == "")
+                {
+                    MessageBox.Show("Vui lòng nhập MSNV.");
+                    txtMNV.Focus();
+                    return false;
+                }
+                if (ten == "")
+                {
+                    MessageBox.Show("Vui lòng nhập tên nhân viên.");
+                    txtTNV.Focus();
+                    return false;
+                }
+                if (!decimal.TryParse(txtLCB
+                    .Text.Trim(), out luong) || luong <= 0)
+                {
+                    MessageBox.Show("Lương căn bản phải là số lớn hơn 0.");
+                    txtLCB.Focus();
+                    return false;
+                }
+                return true;
+            }
+
+            private void XoaTrang()
+            {
+                txtMNV.Clear();
+                txtTNV.Clear();
+                txtLCB.Clear();
+                txtMNV.Focus();
+            }
+
+            // THÊM
+            private void btnThem_Click(object sender, EventArgs e)
+            {
+                if (!DocDuLieu(out string ma, out string ten, out decimal luong)) return;
+
+                // Use DataTable.Rows.Find to check primary key existence
+                if (dt.Rows.Find(ma) != null)
+                {
+                    MessageBox.Show("MSNV đã tồn tại.");
+                    txtMNV.Focus();
+                    return;
+                }
+
+                // Add row to the DataTable (grid is bound to dt)
+                dt.Rows.Add(ma, ten, luong);
+                XoaTrang();
+            }
+
+            // SỬA: bấm vào 1 dòng trong grid, sửa ở các ô nhập, rồi bấm Sửa
+            private void btnSua_Click(object sender, EventArgs e)
+            {
+                if (gvNhanVien.CurrentRow == null)
+                {
+                    MessageBox.Show("Vui lòng chọn nhân viên cần sửa.");
+                    return;
+                }
+                if (!DocDuLieu(out string ma, out string ten, out decimal luong)) return;
+
+                DataRow dr = ((DataRowView)gvNhanVien.CurrentRow.DataBoundItem).Row;
+
+                // Trùng MSNV với dòng KHÁC thì không cho sửa
+                DataRow trung = dt.Rows.Find(ma);
+                if (trung != null && trung != dr)
+                {
+                    MessageBox.Show("MSNV đã tồn tại.");
+                    txtMNV.Focus();
+                    return;
+                }
+
+                dr["MaNV"] = ma;
+                dr["TenNV"] = ten;
+                dr["LuongCB"] = luong;
+                XoaTrang();
+            }
+
+            // XÓA
+            private void btnXoa_Click(object sender, EventArgs e)
+            {
+                if (gvNhanVien.CurrentRow == null)
+                {
+                    MessageBox.Show("Vui lòng chọn nhân viên cần xóa.");
+                    return;
+                }
+
+                DataRow dr = ((DataRowView)gvNhanVien.CurrentRow.DataBoundItem).Row;
+                string ma = dr["MaNV"].ToString();
+
+                if (MessageBox.Show($"Bạn có chắc muốn xóa nhân viên {ma}?", "Xác nhận",
+                    MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+                {
+                    // Remove from DataTable
+                    dt.Rows.Remove(dr);
+                    XoaTrang();
+                }
+            }
+
+            // Click vào dòng nào thì đổ dữ liệu dòng đó lên các ô nhập
+            // Keep old handler name (in case designer wired it) and forward to the canonical handler
+            private void dgvNhanVien_CellClick(object sender, DataGridViewCellEventArgs e)
+            {
+                gvNhanVien_CellClick(sender, e);
+            }
+
+            // Canonical cell click handler for the gvNhanVien grid
+            private void gvNhanVien_CellClick(object sender, DataGridViewCellEventArgs e)
+            {
+                if (e.RowIndex < 0) return;   // bấm vào header thì bỏ qua
+                DataGridViewRow r = gvNhanVien.Rows[e.RowIndex];
+                txtMNV.Text = r.Cells["MaNV"].Value?.ToString();
+                txtTNV.Text = r.Cells["TenNV"].Value?.ToString();
+                txtLCB.Text = r.Cells["LuongCB"].Value?.ToString();
+            }
+
+            private void btnDong_Click(object sender, EventArgs e)
+            {
+                Close();
+            }
+        }
+    }

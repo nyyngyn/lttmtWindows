@@ -1,0 +1,236 @@
+﻿namespace BTbuoi3
+{
+    partial class Form1
+    {
+        /// <summary>
+        ///  Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        ///  Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        ///  Required method for Designer support - do not modify
+        ///  the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            gvNhanVien = new DataGridView();
+            dataGridView1 = new DataGridView();
+            lbMaNV = new Label();
+            lbTenNV = new Label();
+            lbLuongCB = new Label();
+            txtMNV = new TextBox();
+            txtTNV = new TextBox();
+            txtLCB = new TextBox();
+            btnDongY = new Button();
+            btnBoQua = new Button();
+            clMNV = new DataGridViewTextBoxColumn();
+            clTenNV = new DataGridViewTextBoxColumn();
+            clLuongCB = new DataGridViewTextBoxColumn();
+            btnThem = new Button();
+            btnSua = new Button();
+            btnXoa = new Button();
+            btnDong = new Button();
+            ((System.ComponentModel.ISupportInitialize)gvNhanVien).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
+            SuspendLayout();
+            // 
+            // gvNhanVien
+            // 
+            gvNhanVien.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            gvNhanVien.Columns.AddRange(new DataGridViewColumn[] { clMNV, clTenNV, clLuongCB });
+            gvNhanVien.Location = new Point(4, 48);
+            gvNhanVien.Name = "gvNhanVien";
+            gvNhanVien.Size = new Size(426, 193);
+            gvNhanVien.TabIndex = 0;
+//            gvNhanVien.CellContentClick += gvNhanVien_CellContentClick;
+            // 
+            // dataGridView1
+            // 
+            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridView1.Location = new Point(436, 68);
+            dataGridView1.Name = "dataGridView1";
+            dataGridView1.Size = new Size(264, 150);
+            dataGridView1.TabIndex = 1;
+            // 
+            // lbMaNV
+            // 
+            lbMaNV.AutoSize = true;
+            lbMaNV.Location = new Point(451, 93);
+            lbMaNV.Name = "lbMaNV";
+            lbMaNV.Size = new Size(82, 15);
+            lbMaNV.TabIndex = 2;
+            lbMaNV.Text = "Mã Nhân Viên";
+            // 
+            // lbTenNV
+            // 
+            lbTenNV.AutoSize = true;
+            lbTenNV.Location = new Point(451, 120);
+            lbTenNV.Name = "lbTenNV";
+            lbTenNV.Size = new Size(84, 15);
+            lbTenNV.TabIndex = 3;
+            lbTenNV.Text = "Tên Nhân Viên";
+            // 
+            // lbLuongCB
+            // 
+            lbLuongCB.AutoSize = true;
+            lbLuongCB.Location = new Point(451, 150);
+            lbLuongCB.Name = "lbLuongCB";
+            lbLuongCB.Size = new Size(82, 15);
+            lbLuongCB.TabIndex = 4;
+            lbLuongCB.Text = "Lương Cơ Bản";
+            // 
+            // txtMNV
+            // 
+            txtMNV.Location = new Point(576, 85);
+            txtMNV.Name = "txtMNV";
+            txtMNV.Size = new Size(100, 23);
+            txtMNV.TabIndex = 5;
+            // 
+            // txtTNV
+            // 
+            txtTNV.Location = new Point(576, 112);
+            txtTNV.Name = "txtTNV";
+            txtTNV.Size = new Size(124, 23);
+            txtTNV.TabIndex = 6;
+            // 
+            // txtLCB
+            // 
+            txtLCB.Location = new Point(576, 142);
+            txtLCB.Name = "txtLCB";
+            txtLCB.Size = new Size(100, 23);
+            txtLCB.TabIndex = 7;
+            // 
+            // btnDongY
+            // 
+            btnDongY.Location = new Point(487, 175);
+            btnDongY.Name = "btnDongY";
+            btnDongY.Size = new Size(75, 23);
+            btnDongY.TabIndex = 8;
+            btnDongY.Text = "Đồng Ý";
+            btnDongY.UseVisualStyleBackColor = true;
+            // 
+            // btnBoQua
+            // 
+            btnBoQua.Location = new Point(576, 175);
+            btnBoQua.Name = "btnBoQua";
+            btnBoQua.Size = new Size(75, 23);
+            btnBoQua.TabIndex = 9;
+            btnBoQua.Text = "Bỏ Qua";
+            btnBoQua.UseVisualStyleBackColor = true;
+            // 
+            // clMNV
+            // 
+            clMNV.HeaderText = "Mã Nhân Viên";
+            clMNV.Name = "clMNV";
+            // 
+            // clTenNV
+            // 
+            clTenNV.HeaderText = "Tên Nhân Viên";
+            clTenNV.Name = "clTenNV";
+            // 
+            // clLuongCB
+            // 
+            clLuongCB.HeaderText = "Lương Cơ Bản";
+            clLuongCB.Name = "clLuongCB";
+            // 
+            // btnThem
+            // 
+            btnThem.Location = new Point(355, 68);
+            btnThem.Name = "btnThem";
+            btnThem.Size = new Size(75, 23);
+            btnThem.TabIndex = 10;
+            btnThem.Text = "Thêm";
+            btnThem.UseVisualStyleBackColor = true;
+            btnThem.Click += btnThem_Click;
+            // 
+            // btnSua
+            // 
+            btnSua.Location = new Point(355, 97);
+            btnSua.Name = "btnSua";
+            btnSua.Size = new Size(75, 23);
+            btnSua.TabIndex = 11;
+            btnSua.Text = "Sửa";
+            btnSua.UseVisualStyleBackColor = true;
+            // 
+            // btnXoa
+            // 
+            btnXoa.Location = new Point(355, 126);
+            btnXoa.Name = "btnXoa";
+            btnXoa.Size = new Size(75, 23);
+            btnXoa.TabIndex = 12;
+            btnXoa.Text = "Xóa";
+            btnXoa.UseVisualStyleBackColor = true;
+            // 
+            // btnDong
+            // 
+            btnDong.Location = new Point(355, 155);
+            btnDong.Name = "btnDong";
+            btnDong.Size = new Size(75, 23);
+            btnDong.TabIndex = 13;
+            btnDong.Text = "Đóng";
+            btnDong.UseVisualStyleBackColor = true;
+            btnDong.Click += btnDong_Click;
+            // 
+            // Form1
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(800, 450);
+            Controls.Add(btnDong);
+            Controls.Add(btnXoa);
+            Controls.Add(btnSua);
+            Controls.Add(btnThem);
+            Controls.Add(btnBoQua);
+            Controls.Add(btnDongY);
+            Controls.Add(txtLCB);
+            Controls.Add(txtTNV);
+            Controls.Add(txtMNV);
+            Controls.Add(lbLuongCB);
+            Controls.Add(lbTenNV);
+            Controls.Add(lbMaNV);
+            Controls.Add(dataGridView1);
+            Controls.Add(gvNhanVien);
+            Name = "Form1";
+            Text = "Form1";
+            ((System.ComponentModel.ISupportInitialize)gvNhanVien).EndInit();
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
+            ResumeLayout(false);
+            PerformLayout();
+        }
+
+        #endregion
+
+        private DataGridView gvNhanVien;
+        private DataGridView dataGridView1;
+        private DataGridViewTextBoxColumn clMNV;
+        private DataGridViewTextBoxColumn clTenNV;
+        private DataGridViewTextBoxColumn clLuongCB;
+        private Label lbMaNV;
+        private Label lbTenNV;
+        private Label lbLuongCB;
+        private TextBox txtMNV;
+        private TextBox txtTNV;
+        private TextBox txtLCB;
+        private Button btnDongY;
+        private Button btnBoQua;
+        private Button btnThem;
+        private Button btnSua;
+        private Button btnXoa;
+        private Button btnDong;
+    }
+}
