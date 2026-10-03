@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi5\\MDI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64CF84E4-270E-417D-1BFE-BE5DB1F8FED3}|MDI.csproj|c:\\users\\vinh\\source\\repos\\lttmtwindows\\buoi5\\mdi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64CF84E4-270E-417D-1BFE-BE5DB1F8FED3}|MDI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E6491F-ED91-4689-B5BD-F15BA4AC5E4E}|MDI.csproj|C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi5\\MDI\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78E6491F-ED91-4689-B5BD-F15BA4AC5E4E}|MDI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64CF84E4-270E-417D-1BFE-BE5DB1F8FED3}|MDI.csproj|c:\\users\\vinh\\source\\repos\\lttmtwindows\\buoi5\\mdi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64CF84E4-270E-417D-1BFE-BE5DB1F8FED3}|MDI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64CF84E4-270E-417D-1BFE-BE5DB1F8FED3}|MDI.csproj|c:\\users\\vinh\\source\\repos\\lttmtwindows\\buoi5\\mdi\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64CF84E4-270E-417D-1BFE-BE5DB1F8FED3}|MDI.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E6491F-ED91-4689-B5BD-F15BA4AC5E4E}|MDI.csproj|C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi5\\MDI\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78E6491F-ED91-4689-B5BD-F15BA4AC5E4E}|MDI.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi5\\MDI\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi5\\MDI\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T07:39:00.587Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi5\\MDI\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi5\\MDI\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T06:25:57.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi5\\MDI\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi5\\MDI\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T06:26:26.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi5\\MDI\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi5\\MDI\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAjwD0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T06:22:52.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi5\\MDI\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi5\\MDI\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T06:16:45.467Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
