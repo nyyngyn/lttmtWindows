@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi6\\BTBuoi6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE211F3-EB4E-42B9-9BCA-801D784CD297}|BTBuoi6.csproj|c:\\users\\vinh\\source\\repos\\lttmtwindows\\buoi6\\btbuoi6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBE211F3-EB4E-42B9-9BCA-801D784CD297}|BTBuoi6.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE211F3-EB4E-42B9-9BCA-801D784CD297}|BTBuoi6.csproj|c:\\users\\vinh\\source\\repos\\lttmtwindows\\buoi6\\btbuoi6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE211F3-EB4E-42B9-9BCA-801D784CD297}|BTBuoi6.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE211F3-EB4E-42B9-9BCA-801D784CD297}|BTBuoi6.csproj|c:\\users\\vinh\\source\\repos\\lttmtwindows\\buoi6\\btbuoi6\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE211F3-EB4E-42B9-9BCA-801D784CD297}|BTBuoi6.csproj|solutionrelative:appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE211F3-EB4E-42B9-9BCA-801D784CD297}|BTBuoi6.csproj|c:\\users\\vinh\\source\\repos\\lttmtwindows\\buoi6\\btbuoi6\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE211F3-EB4E-42B9-9BCA-801D784CD297}|BTBuoi6.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi6\\BTBuoi6\\Migrations\\20261009085145_InitCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20261009085145_InitCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi6\\BTBuoi6\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi6\\BTBuoi6\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T08:55:49.615Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi6\\BTBuoi6\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi6\\BTBuoi6\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAuwLYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T08:54:11.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20261009085145_InitCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi6\\BTBuoi6\\Migrations\\20261009085145_InitCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20261009085145_InitCreate.cs",
+              "ToolTip": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi6\\BTBuoi6\\Migrations\\20261009085145_InitCreate.cs",
+              "RelativeToolTip": "Migrations\\20261009085145_InitCreate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T08:51:45.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi6\\BTBuoi6\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi6\\BTBuoi6\\AppDbContext.cs",
+              "RelativeToolTip": "AppDbContext.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowEsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T08:42:15.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi6\\BTBuoi6\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi6\\BTBuoi6\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T08:40:41.536Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
