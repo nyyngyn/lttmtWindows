@@ -1,0 +1,16 @@
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi7\QuanLySinhVien.BLL\obj\Debug\net10.0-windows\QuanLySinhVien.BLL.csproj.AssemblyReference.cache
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi7\QuanLySinhVien.BLL\obj\Debug\net10.0-windows\QuanLySinhVien.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi7\QuanLySinhVien.BLL\obj\Debug\net10.0-windows\QuanLySinhVien.BLL.AssemblyInfoInputs.cache
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi7\QuanLySinhVien.BLL\obj\Debug\net10.0-windows\QuanLySinhVien.BLL.AssemblyInfo.cs
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi7\QuanLySinhVien.BLL\obj\Debug\net10.0-windows\QuanLySinhVien.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi7\QuanLySinhVien.BLL\obj\Debug\net10.0-windows\QuanLySinhVien.BLL.sourcelink.json
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi7\QuanLySinhVien.BLL\bin\Debug\net10.0-windows\QuanLySinhVien.BLL.deps.json
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi7\QuanLySinhVien.BLL\bin\Debug\net10.0-windows\QuanLySinhVien.BLL.dll
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi7\QuanLySinhVien.BLL\bin\Debug\net10.0-windows\QuanLySinhVien.BLL.pdb
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi7\QuanLySinhVien.BLL\bin\Debug\net10.0-windows\QuanLySinhVien.DAL.dll
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi7\QuanLySinhVien.BLL\bin\Debug\net10.0-windows\QuanLySinhVien.DAL.pdb
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi7\QuanLySinhVien.BLL\obj\Debug\net10.0-windows\QuanLySi.D930512A.Up2Date
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi7\QuanLySinhVien.BLL\obj\Debug\net10.0-windows\QuanLySinhVien.BLL.dll
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi7\QuanLySinhVien.BLL\obj\Debug\net10.0-windows\refint\QuanLySinhVien.BLL.dll
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi7\QuanLySinhVien.BLL\obj\Debug\net10.0-windows\QuanLySinhVien.BLL.pdb
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi7\QuanLySinhVien.BLL\obj\Debug\net10.0-windows\ref\QuanLySinhVien.BLL.dll

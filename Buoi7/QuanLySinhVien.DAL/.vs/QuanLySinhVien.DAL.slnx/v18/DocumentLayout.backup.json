@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi7\\QuanLySinhVien.DAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C64FB509-4DDA-3899-8854-3BF788A29F6B}|QuanLySinhVien.DAL.csproj|c:\\users\\vinh\\source\\repos\\lttmtwindows\\buoi7\\quanlysinhvien.dal\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64FB509-4DDA-3899-8854-3BF788A29F6B}|QuanLySinhVien.DAL.csproj|solutionrelative:model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6FD0FDB-AECC-4A3D-B085-967750158055}|..\\QuanLySinhVien.UI\\QuanLySinhVien.UI.csproj|c:\\users\\vinh\\source\\repos\\lttmtwindows\\buoi7\\quanlysinhvien.ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi7\\QuanLySinhVien.DAL\\Migrations\\20261016091540_InitQLSV.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20261016091540_InitQLSV.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64FB509-4DDA-3899-8854-3BF788A29F6B}|QuanLySinhVien.DAL.csproj|c:\\users\\vinh\\source\\repos\\lttmtwindows\\buoi7\\quanlysinhvien.dal\\model\\qlsvdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64FB509-4DDA-3899-8854-3BF788A29F6B}|QuanLySinhVien.DAL.csproj|solutionrelative:model\\qlsvdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6FD0FDB-AECC-4A3D-B085-967750158055}|..\\QuanLySinhVien.UI\\QuanLySinhVien.UI.csproj|c:\\users\\vinh\\source\\repos\\lttmtwindows\\buoi7\\quanlysinhvien.ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64FB509-4DDA-3899-8854-3BF788A29F6B}|QuanLySinhVien.DAL.csproj|c:\\users\\vinh\\source\\repos\\lttmtwindows\\buoi7\\quanlysinhvien.dal\\model\\sinhviendal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64FB509-4DDA-3899-8854-3BF788A29F6B}|QuanLySinhVien.DAL.csproj|solutionrelative:model\\sinhviendal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64FB509-4DDA-3899-8854-3BF788A29F6B}|QuanLySinhVien.DAL.csproj|c:\\users\\vinh\\source\\repos\\lttmtwindows\\buoi7\\quanlysinhvien.dal\\quanlysinhvien.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C64FB509-4DDA-3899-8854-3BF788A29F6B}|QuanLySinhVien.DAL.csproj|solutionrelative:quanlysinhvien.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44F29C4-89CE-4A87-9A2C-195361FE95DF}|..\\QuanLySinhVien.BLL\\QuanLySinhVien.BLL.csproj|c:\\users\\vinh\\source\\repos\\lttmtwindows\\buoi7\\quanlysinhvien.bll\\sinhvienbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44F29C4-89CE-4A87-9A2C-195361FE95DF}|..\\QuanLySinhVien.BLL\\QuanLySinhVien.BLL.csproj|c:\\users\\vinh\\source\\repos\\lttmtwindows\\buoi7\\quanlysinhvien.bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20261016091540_InitQLSV.cs",
+              "DocumentMoniker": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi7\\QuanLySinhVien.DAL\\Migrations\\20261016091540_InitQLSV.cs",
+              "RelativeDocumentMoniker": "Migrations\\20261016091540_InitQLSV.cs",
+              "ToolTip": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi7\\QuanLySinhVien.DAL\\Migrations\\20261016091540_InitQLSV.cs",
+              "RelativeToolTip": "Migrations\\20261016091540_InitQLSV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T09:15:41.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi7\\QuanLySinhVien.UI\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\QuanLySinhVien.UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi7\\QuanLySinhVien.UI\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\QuanLySinhVien.UI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T09:00:47.34Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi7\\QuanLySinhVien.UI\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\QuanLySinhVien.UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi7\\QuanLySinhVien.UI\\Form1.cs",
+              "RelativeToolTip": "..\\QuanLySinhVien.UI\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T09:00:39.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QLSVDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi7\\QuanLySinhVien.DAL\\Model\\QLSVDbContext.cs",
+              "RelativeDocumentMoniker": "Model\\QLSVDbContext.cs",
+              "ToolTip": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi7\\QuanLySinhVien.DAL\\Model\\QLSVDbContext.cs",
+              "RelativeToolTip": "Model\\QLSVDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T08:49:25.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi7\\QuanLySinhVien.DAL\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "Model\\Student.cs",
+              "ToolTip": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi7\\QuanLySinhVien.DAL\\Model\\Student.cs",
+              "RelativeToolTip": "Model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T08:46:35.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SinhVienDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi7\\QuanLySinhVien.DAL\\Model\\SinhVienDAL.cs",
+              "RelativeDocumentMoniker": "Model\\SinhVienDAL.cs",
+              "ToolTip": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi7\\QuanLySinhVien.DAL\\Model\\SinhVienDAL.cs",
+              "RelativeToolTip": "Model\\SinhVienDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T08:56:05.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SinhVienBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi7\\QuanLySinhVien.BLL\\SinhVienBLL.cs",
+              "RelativeDocumentMoniker": "..\\QuanLySinhVien.BLL\\SinhVienBLL.cs",
+              "ToolTip": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi7\\QuanLySinhVien.BLL\\SinhVienBLL.cs",
+              "RelativeToolTip": "..\\QuanLySinhVien.BLL\\SinhVienBLL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T09:04:36.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuanLySinhVien.DAL",
+              "DocumentMoniker": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi7\\QuanLySinhVien.DAL\\QuanLySinhVien.DAL.csproj",
+              "RelativeDocumentMoniker": "QuanLySinhVien.DAL.csproj",
+              "ToolTip": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi7\\QuanLySinhVien.DAL\\QuanLySinhVien.DAL.csproj",
+              "RelativeToolTip": "QuanLySinhVien.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-16T08:46:04.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi7\\QuanLySinhVien.BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\QuanLySinhVien.BLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi7\\QuanLySinhVien.BLL\\Class1.cs",
+              "RelativeToolTip": "..\\QuanLySinhVien.BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T08:41:00.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
