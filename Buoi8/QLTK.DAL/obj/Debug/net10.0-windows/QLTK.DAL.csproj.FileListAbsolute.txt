@@ -1,0 +1,16 @@
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi8\QLTK.DAL\bin\Debug\net10.0-windows\QLTK.DAL.deps.json
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi8\QLTK.DAL\bin\Debug\net10.0-windows\QLTK.DAL.runtimeconfig.json
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi8\QLTK.DAL\bin\Debug\net10.0-windows\QLTK.DAL.dll
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi8\QLTK.DAL\bin\Debug\net10.0-windows\QLTK.DAL.pdb
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi8\QLTK.DAL\obj\Debug\net10.0-windows\QLTK.DAL.csproj.AssemblyReference.cache
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi8\QLTK.DAL\obj\Debug\net10.0-windows\QLTK.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi8\QLTK.DAL\obj\Debug\net10.0-windows\QLTK.DAL.AssemblyInfoInputs.cache
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi8\QLTK.DAL\obj\Debug\net10.0-windows\QLTK.DAL.AssemblyInfo.cs
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi8\QLTK.DAL\obj\Debug\net10.0-windows\QLTK.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi8\QLTK.DAL\obj\Debug\net10.0-windows\QLTK.DAL.sourcelink.json
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi8\QLTK.DAL\obj\Debug\net10.0-windows\QLTK.DAL.dll
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi8\QLTK.DAL\obj\Debug\net10.0-windows\refint\QLTK.DAL.dll
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi8\QLTK.DAL\obj\Debug\net10.0-windows\QLTK.DAL.pdb
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi8\QLTK.DAL\obj\Debug\net10.0-windows\QLTK.DAL.genruntimeconfig.cache
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi8\QLTK.DAL\obj\Debug\net10.0-windows\ref\QLTK.DAL.dll
+C:\Users\Vinh\source\repos\LTTMTWindows\Buoi8\QLTK.DAL\obj\Debug\net10.0-windows\QLTK.DAL.csproj.Up2Date

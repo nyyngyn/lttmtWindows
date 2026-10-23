@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi8\\QLTK.DAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{029F1657-10BC-4821-9AEE-1EDB2EA69545}|..\\QLTK.GUI\\QLTK.GUI.csproj|c:\\users\\vinh\\source\\repos\\lttmtwindows\\buoi8\\qltk.gui\\frmquanlygiaodich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029F1657-10BC-4821-9AEE-1EDB2EA69545}|..\\QLTK.GUI\\QLTK.GUI.csproj|c:\\users\\vinh\\source\\repos\\lttmtwindows\\buoi8\\qltk.gui\\frmsaoke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029F1657-10BC-4821-9AEE-1EDB2EA69545}|..\\QLTK.GUI\\QLTK.GUI.csproj|c:\\users\\vinh\\source\\repos\\lttmtwindows\\buoi8\\qltk.gui\\frmquanlygiaodich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2453CE6A-11D2-4796-B332-34CF065DB55E}|..\\QLTK.BLL\\QLTK.BLL.csproj|c:\\users\\vinh\\source\\repos\\lttmtwindows\\buoi8\\qltk.bll\\excelexporthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029F1657-10BC-4821-9AEE-1EDB2EA69545}|..\\QLTK.GUI\\QLTK.GUI.csproj|c:\\users\\vinh\\source\\repos\\lttmtwindows\\buoi8\\qltk.gui\\frmsaoke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExcelExportHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi8\\QLTK.BLL\\ExcelExportHelper.cs",
+              "RelativeDocumentMoniker": "..\\QLTK.BLL\\ExcelExportHelper.cs",
+              "ToolTip": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi8\\QLTK.BLL\\ExcelExportHelper.cs",
+              "RelativeToolTip": "..\\QLTK.BLL\\ExcelExportHelper.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T07:14:38.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmSaoKe.cs",
+              "DocumentMoniker": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi8\\QLTK.GUI\\frmSaoKe.cs",
+              "RelativeDocumentMoniker": "..\\QLTK.GUI\\frmSaoKe.cs",
+              "ToolTip": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi8\\QLTK.GUI\\frmSaoKe.cs",
+              "RelativeToolTip": "..\\QLTK.GUI\\frmSaoKe.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAUwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T07:09:58.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmSaoKe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi8\\QLTK.GUI\\frmSaoKe.cs",
+              "RelativeDocumentMoniker": "..\\QLTK.GUI\\frmSaoKe.cs",
+              "ToolTip": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi8\\QLTK.GUI\\frmSaoKe.cs [Design]",
+              "RelativeToolTip": "..\\QLTK.GUI\\frmSaoKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T06:48:35.972Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmQuanLyGiaoDich.cs",
+              "DocumentMoniker": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi8\\QLTK.GUI\\frmQuanLyGiaoDich.cs",
+              "RelativeDocumentMoniker": "..\\QLTK.GUI\\frmQuanLyGiaoDich.cs",
+              "ToolTip": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi8\\QLTK.GUI\\frmQuanLyGiaoDich.cs",
+              "RelativeToolTip": "..\\QLTK.GUI\\frmQuanLyGiaoDich.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAUwHsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T06:26:35.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmQuanLyGiaoDich.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi8\\QLTK.GUI\\frmQuanLyGiaoDich.cs",
+              "RelativeDocumentMoniker": "..\\QLTK.GUI\\frmQuanLyGiaoDich.cs",
+              "ToolTip": "C:\\Users\\Vinh\\source\\repos\\LTTMTWindows\\Buoi8\\QLTK.GUI\\frmQuanLyGiaoDich.cs [Design]",
+              "RelativeToolTip": "..\\QLTK.GUI\\frmQuanLyGiaoDich.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T06:20:09.838Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
